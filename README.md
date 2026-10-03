@@ -1,82 +1,81 @@
-# Hi, I'm Prashanth 👋
+<div align="center">
 
-### AI/ML Engineering Student | Python | Generative AI | Data Analytics
+# <code>prashanth@github</code>
 
-I'm an AI/ML engineering student passionate about building practical AI applications, learning by doing, and turning ideas into working projects.
+### AI/ML Engineering Student · Generative AI · Python · Data Analytics
 
-I enjoy exploring **Artificial Intelligence, Machine Learning, Generative AI, LLMs, RAG, Python, and Data Analytics** while continuously improving my software development skills.
+<img src="./graph.svg" width="820" alt="Living contribution graph"/>
+
+<br>
+
+<table>
+<tr>
+<td valign="top">
+<img src="./assets/portrait.svg" width="360" alt="Animated ASCII identity portrait"/>
+</td>
+<td valign="top">
+<img src="./assets/sysinfo.svg" width="460" alt="Terminal style profile information"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🧠 What I'm Focused On
+## <code>$ whoami</code>
+
+I'm an AI/ML engineering student focused on building practical AI applications and learning through projects.
+
+I explore **Artificial Intelligence, Machine Learning, Generative AI, LLMs, RAG, Python and Data Analytics**, while developing stronger software engineering skills.
+
+## <code>$ focus --current</code>
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Generative AI, LLMs & RAG
-- 🐍 Python programming and problem solving
-- 📊 Data Analytics, SQL & Pandas
-- 💻 Software and web development
-- 🏎️ Exploring AI/ML applications in Formula 1
+- 🐍 Python & problem solving
+- 📊 SQL, Pandas & Data Analytics
+- 💻 Git, GitHub & software development
+- 🏎️ AI/ML applications in Formula 1
 
----
+## <code>$ ls ./projects</code>
 
-## 🛠️ Tech Stack
-
-**Languages**
-  
-Python · SQL · JavaScript
-
-**AI / ML**
-
-Machine Learning · Generative AI · LLMs · RAG
-
-**Data**
-
-Pandas · Data Analysis · Data Visualization
-
-**Development**
-
-Git · GitHub · React · HTML · CSS
-
-**Tools**
-
-Jupyter Notebook · VS Code · Ollama
-
----
-
-## 🚀 Featured Projects & Learning
-
-| Project | What it represents |
+| Repository | Description |
 |---|---|
-| [30 Days Python](https://github.com/parigalaprashanthkumvsr-code/PYTHON-BEGGINER-FOR-30-DAYS) | Python fundamentals and daily practice |
-| [GENAI-APAC](https://github.com/parigalaprashanthkumvsr-code/GENAI-APAC) | Generative AI learning and projects |
-| [OC-ME](https://github.com/parigalaprashanthkumvsr-code/OC-ME) | OpenCode multi-environment project |
-| [LeetCode](https://github.com/parigalaprashanthkumvsr-code/leetcode) | Coding and problem-solving practice |
-| [Git Journey](https://github.com/parigalaprashanthkumvsr-code/git-journey) | Git and GitHub learning |
-| [My Resume](https://github.com/parigalaprashanthkumvsr-code/MY_RESUME) | Resume and career materials |
+| [30 Days Python](https://github.com/parigalaprashanthkumsvr-code/PYTHON-BEGGINER-FOR-30-DAYS) | Python fundamentals and daily practice |
+| [GENAI-APAC](https://github.com/parigalaprashanthkumsvr-code/GENAI-APAC) | Generative AI learning and projects |
+| [OC-ME](https://github.com/parigalaprashanthkumsvr-code/OC-ME) | OpenCode multi-environment project |
+| [LeetCode](https://github.com/parigalaprashanthkumsvr-code/leetcode) | Coding and problem-solving practice |
+| [Git Journey](https://github.com/parigalaprashanthkumsvr-code/git-journey) | Git and GitHub learning |
+| [My Resume](https://github.com/parigalaprashanthkumsvr-code/MY_RESUME) | Resume and career materials |
+
+## <code>$ cat tech-stack.txt</code>
+
+**Languages:** Python · SQL · JavaScript  
+**AI/ML:** Machine Learning · Generative AI · LLMs · RAG  
+**Data:** Pandas · Data Analysis · Data Visualization  
+**Development:** Git · GitHub · React · HTML · CSS  
+**Tools:** Jupyter Notebook · VS Code · Ollama
+
+## <code>$ tail -f learning.log</code>
+
+```text
+[learning] Python programming
+[learning] Machine Learning fundamentals
+[learning] Generative AI & LLM applications
+[learning] Retrieval-Augmented Generation
+[learning] SQL & Data Analytics
+[building] Portfolio-ready AI projects
+```
+
+## <code>$ echo $MISSION</code>
+
+**Learn → Build → Experiment → Improve → Share 🚀**
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
 
-- Python programming
-- Machine Learning fundamentals
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG)
-- SQL and Data Analytics
-- Building portfolio-ready AI projects
+<sub>Living profile assets are generated locally and refreshed with GitHub Actions.</sub>
 
----
-
-## 🎯 My Goal
-
-To become a strong **AI/ML engineer** by consistently learning, building, experimenting, and sharing practical projects.
-
-> **Learn → Build → Experiment → Improve → Share 🚀**
-
----
-
-## 📫 Explore My Work
-
-I'm using GitHub to document my learning journey, experiments, coding practice, and AI/ML projects.
-
-⭐ Feel free to explore my repositories and follow along with my journey.
+</div>
