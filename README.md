@@ -1,6 +1,6 @@
 <div align="center">
 
-# <code>parigalaprashanthkumvsr-code</code>
+# <code>parigalaprashanthkumkvsr-code</code>
 
 ### AI/ML Engineering Student · Generative AI · Python · Data Analytics
 
