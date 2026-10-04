@@ -1,6 +1,6 @@
 <div align="center">
 
-# <code>prashanth@github</code>
+# <code>parigalaprashanthkumvsr-code</code>
 
 ### AI/ML Engineering Student · Generative AI · Python · Data Analytics
 
