@@ -6,6 +6,10 @@
 
 *Building practical AI applications and learning through projects.*
 
+<div align="center">
+<img src="./assets/svg/profile.svg" width="820" alt="Generated AI/ML engineering profile visual" />
+</div>
+
 </div>
 
 ## Visual identity
