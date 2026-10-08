@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 932 164" width="932" height="164" role="img"><defs>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt,.mut,.pt{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt{fill:#dfe6ff} .mut{fill:#8b9bd6} .pt{fill:#9aabff;font-size:15px;font-weight:700}
+    .name{font-family:Impact,'Haettenschweiler','Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:1px}
+  </style>
+  <linearGradient id="gName" x1="0" x2="1"><stop offset="0" stop-color="#5b73ff"/><stop offset="1" stop-color="#9aabff"/></linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#3d56d6" stroke-opacity=".12"/></pattern>
+  <pattern id="stripe" width="8" height="9" patternUnits="userSpaceOnUse" patternTransform="skewX(-30)"><rect width="4" height="9" fill="#5b73ff"/><rect x="4" width="4" height="9" fill="#9aabff"/></pattern>
+</defs>
+<rect width="932" height="164" fill="#050b1c"/><g transform="translate(12,12)"><g transform="translate(0,0)"><rect width="908" height="140" rx="4" fill="#071027" stroke="#3d56d6" stroke-opacity=".75"/><text x="16" y="26" class="pt">$ echo $MISSION</text><line x1="0" y1="40" x2="908" y2="40" stroke="#3d56d6" stroke-opacity=".45"/><text x="856" y="30" class="mut" font-size="14">–</text><rect x="880" y="21" width="9" height="9" fill="none" stroke="#8b9bd6"/>
+    <rect x="13" y="46" width="882" height="76" rx="3" fill="#050b1c" stroke="#9aabff" stroke-opacity=".8"/>
+    <line x1="100" y1="46" x2="100" y2="122" stroke="#3d56d6"/>
+    <g transform="translate(56,84)" fill="none" stroke="#9aabff" stroke-width="3"><circle r="22"/><circle r="13"/><circle r="4" fill="#9aabff"/><line x1="0" y1="0" x2="24" y2="-24"/></g>
+    <text x="118" y="95" class="mono" font-size="24" font-weight="700" filter="url(#glow)"><tspan fill="#9aabff">Learn</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Build</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Experiment</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Improve</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Share</tspan></text>
+    <text x="840" y="96" font-size="28">🚀</text></g></g></svg>

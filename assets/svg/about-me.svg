@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 447 269" width="447" height="269" role="img"><defs>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt,.mut,.pt{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt{fill:#dfe6ff} .mut{fill:#8b9bd6} .pt{fill:#9aabff;font-size:15px;font-weight:700}
+    .name{font-family:Impact,'Haettenschweiler','Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:1px}
+  </style>
+  <linearGradient id="gName" x1="0" x2="1"><stop offset="0" stop-color="#5b73ff"/><stop offset="1" stop-color="#9aabff"/></linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#3d56d6" stroke-opacity=".12"/></pattern>
+  <pattern id="stripe" width="8" height="9" patternUnits="userSpaceOnUse" patternTransform="skewX(-30)"><rect width="4" height="9" fill="#5b73ff"/><rect x="4" width="4" height="9" fill="#9aabff"/></pattern>
+</defs>
+<rect width="447" height="269" fill="#050b1c"/><g transform="translate(12,12)"><g transform="translate(0,0)"><rect width="423" height="245" rx="4" fill="#071027" stroke="#3d56d6" stroke-opacity=".75"/><text x="16" y="26" class="pt">$ whoami</text><line x1="0" y1="40" x2="423" y2="40" stroke="#3d56d6" stroke-opacity=".45"/><text x="371" y="30" class="mut" font-size="14">–</text><rect x="395" y="21" width="9" height="9" fill="none" stroke="#8b9bd6"/>
+    <rect x="18" y="52" width="2" height="172" fill="#3d56d6" opacity=".7"/>
+    <g><text x="32" y="70" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">I'm an AI/ML engineering student focused</text></g><g><text x="32" y="91" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">on building practical AI applications</text></g><g><text x="32" y="112" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">and learning through projects. I explore</text></g><g><text x="32" y="133" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">Artificial Intelligence, Machine</text></g><g><text x="32" y="154" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">Learning, Generative AI, LLMs, RAG,</text></g><g><text x="32" y="175" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">Python and Data Analytics, while</text></g><g><text x="32" y="196" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">developing stronger software engineering</text></g><g><text x="32" y="217" class="mono" font-size="14" fill="#dfe6ff" xml:space="preserve">skills.</text></g></g></g></svg>

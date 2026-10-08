@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 447 273" width="447" height="273" role="img"><defs>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt,.mut,.pt{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt{fill:#dfe6ff} .mut{fill:#8b9bd6} .pt{fill:#9aabff;font-size:15px;font-weight:700}
+    .name{font-family:Impact,'Haettenschweiler','Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:1px}
+  </style>
+  <linearGradient id="gName" x1="0" x2="1"><stop offset="0" stop-color="#5b73ff"/><stop offset="1" stop-color="#9aabff"/></linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#3d56d6" stroke-opacity=".12"/></pattern>
+  <pattern id="stripe" width="8" height="9" patternUnits="userSpaceOnUse" patternTransform="skewX(-30)"><rect width="4" height="9" fill="#5b73ff"/><rect x="4" width="4" height="9" fill="#9aabff"/></pattern>
+</defs>
+<rect width="447" height="273" fill="#050b1c"/><g transform="translate(12,12)"><g transform="translate(0,0)"><rect width="423" height="249" rx="4" fill="#071027" stroke="#3d56d6" stroke-opacity=".75"/><text x="16" y="26" class="pt">$ focus --current</text><line x1="0" y1="40" x2="423" y2="40" stroke="#3d56d6" stroke-opacity=".45"/><text x="371" y="30" class="mut" font-size="14">–</text><rect x="395" y="21" width="9" height="9" fill="none" stroke="#8b9bd6"/><g>
+    <circle cx="22" cy="68" r="5" fill="#4a7bff"/>
+    <text x="55" y="73" class="mono" font-size="17" fill="#f06ac8" text-anchor="middle">◉</text>
+    <text x="73" y="73" class="mono" font-size="13.5" fill="#dfe6ff">Artificial Intelligence &amp; Machine Learning</text></g><g>
+    <circle cx="22" cy="100.5" r="5" fill="#2ee6a6"/>
+    <text x="55" y="105.5" class="mono" font-size="17" fill="#ffc83d" text-anchor="middle">★</text>
+    <text x="73" y="105.5" class="mono" font-size="13.5" fill="#dfe6ff">Generative AI, LLMs &amp; RAG</text></g><g>
+    <circle cx="22" cy="133" r="5" fill="#4a7bff"/>
+    <text x="55" y="138" class="mono" font-size="12" fill="#35c8ff" text-anchor="middle">&lt;/&gt;</text>
+    <text x="73" y="138" class="mono" font-size="13.5" fill="#dfe6ff">Python &amp; problem solving</text></g><g>
+    <circle cx="22" cy="165.5" r="5" fill="#2ee6a6"/>
+    <text x="55" y="170.5" class="mono" font-size="17" fill="#4aa3ff" text-anchor="middle">≣</text>
+    <text x="73" y="170.5" class="mono" font-size="13.5" fill="#dfe6ff">SQL, Pandas &amp; Data Analytics</text></g><g>
+    <circle cx="22" cy="198" r="5" fill="#4a7bff"/>
+    <text x="55" y="203" class="mono" font-size="12" fill="#6aa0ff" text-anchor="middle">git</text>
+    <text x="73" y="203" class="mono" font-size="13.5" fill="#dfe6ff">Git, GitHub &amp; software development</text></g><g>
+    <circle cx="22" cy="230.5" r="5" fill="#2ee6a6"/>
+    <text x="55" y="235.5" class="mono" font-size="17" fill="#e8edff" text-anchor="middle">⚑</text>
+    <text x="73" y="235.5" class="mono" font-size="13.5" fill="#dfe6ff">AI/ML applications in Formula 1</text></g></g></g></svg>

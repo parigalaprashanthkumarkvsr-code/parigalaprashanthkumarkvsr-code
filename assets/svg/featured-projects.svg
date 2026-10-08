@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 621 351" width="621" height="351" role="img"><defs>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt,.mut,.pt{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace}
+    .txt{fill:#dfe6ff} .mut{fill:#8b9bd6} .pt{fill:#9aabff;font-size:15px;font-weight:700}
+    .name{font-family:Impact,'Haettenschweiler','Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:1px}
+  </style>
+  <linearGradient id="gName" x1="0" x2="1"><stop offset="0" stop-color="#5b73ff"/><stop offset="1" stop-color="#9aabff"/></linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#3d56d6" stroke-opacity=".12"/></pattern>
+  <pattern id="stripe" width="8" height="9" patternUnits="userSpaceOnUse" patternTransform="skewX(-30)"><rect width="4" height="9" fill="#5b73ff"/><rect x="4" width="4" height="9" fill="#9aabff"/></pattern>
+</defs>
+<rect width="621" height="351" fill="#050b1c"/><g transform="translate(12,12)"><g transform="translate(0,0)"><rect width="597" height="327" rx="4" fill="#071027" stroke="#3d56d6" stroke-opacity=".75"/><text x="16" y="26" class="pt">$ ls ./projects</text><line x1="0" y1="40" x2="597" y2="40" stroke="#3d56d6" stroke-opacity=".45"/><text x="545" y="30" class="mut" font-size="14">–</text><rect x="569" y="21" width="9" height="9" fill="none" stroke="#8b9bd6"/>
+    <rect x="8" y="46" width="581" height="22" fill="#3d56d6" fill-opacity=".18"/>
+    <text x="14" y="61" class="mut" font-size="9.5" letter-spacing="1">#</text><text x="50" y="61" class="mut" font-size="9.5" letter-spacing="1">REPOSITORY</text><text x="180" y="61" class="mut" font-size="9.5" letter-spacing="1">DESCRIPTION</text><text x="442" y="61" class="mut" font-size="9.5" letter-spacing="1">LANGUAGE</text><text x="530" y="61" class="mut" font-size="9.5" letter-spacing="1">STARS</text>
+    <g><line x1="8" x2="589" y1="104" y2="104" stroke="#3d56d6" stroke-opacity=".3"/>
+      <text x="14" y="92" class="mut" font-size="11">01</text>
+      <text x="50" y="92" class="mono" font-size="12" font-weight="700" fill="#9aabff">30 Days Python</text>
+      <text x="180" y="92" class="mono" font-size="10.5" fill="#8b9bd6">Python fundamentals and daily practice</text>
+      <circle cx="449" cy="88" r="6" fill="#4f9be8"/><text x="462" y="92" class="mono" font-size="11" fill="#dfe6ff">Python</text>
+      <text x="530" y="93" class="mono" font-size="14" fill="#dfe6ff">★</text><text x="550" y="92" class="mono" font-size="12" fill="#dfe6ff">—</text></g><g><line x1="8" x2="589" y1="136.5" y2="136.5" stroke="#3d56d6" stroke-opacity=".3"/>
+      <text x="14" y="124.5" class="mut" font-size="11">02</text>
+      <text x="50" y="124.5" class="mono" font-size="12" font-weight="700" fill="#9aabff">GENAI-APAC</text>
+      <text x="180" y="124.5" class="mono" font-size="10.5" fill="#8b9bd6">Generative AI learning and projects</text>
+      <circle cx="449" cy="120.5" r="6" fill="#4f9be8"/><text x="462" y="124.5" class="mono" font-size="11" fill="#dfe6ff">Python</text>
+      <text x="530" y="125.5" class="mono" font-size="14" fill="#dfe6ff">★</text><text x="550" y="124.5" class="mono" font-size="12" fill="#dfe6ff">—</text></g><g><line x1="8" x2="589" y1="169" y2="169" stroke="#3d56d6" stroke-opacity=".3"/>
+      <text x="14" y="157" class="mut" font-size="11">03</text>
+      <text x="50" y="157" class="mono" font-size="12" font-weight="700" fill="#9aabff">OC-ME</text>
+      <text x="180" y="157" class="mono" font-size="10.5" fill="#8b9bd6">OpenCode multi-environment project</text>
+      <circle cx="449" cy="153" r="6" fill="#4f9be8"/><text x="462" y="157" class="mono" font-size="11" fill="#dfe6ff">Python</text>
+      <text x="530" y="158" class="mono" font-size="14" fill="#dfe6ff">★</text><text x="550" y="157" class="mono" font-size="12" fill="#dfe6ff">—</text></g><g><line x1="8" x2="589" y1="201.5" y2="201.5" stroke="#3d56d6" stroke-opacity=".3"/>
+      <text x="14" y="189.5" class="mut" font-size="11">04</text>
+      <text x="50" y="189.5" class="mono" font-size="12" font-weight="700" fill="#9aabff">LeetCode</text>
+      <text x="180" y="189.5" class="mono" font-size="10.5" fill="#8b9bd6">Coding and problem-solving practice</text>
+      <circle cx="449" cy="185.5" r="6" fill="#4f9be8"/><text x="462" y="189.5" class="mono" font-size="11" fill="#dfe6ff">Python</text>
+      <text x="530" y="190.5" class="mono" font-size="14" fill="#dfe6ff">★</text><text x="550" y="189.5" class="mono" font-size="12" fill="#dfe6ff">—</text></g><g><line x1="8" x2="589" y1="234" y2="234" stroke="#3d56d6" stroke-opacity=".3"/>
+      <text x="14" y="222" class="mut" font-size="11">05</text>
+      <text x="50" y="222" class="mono" font-size="12" font-weight="700" fill="#9aabff">Git Journey</text>
+      <text x="180" y="222" class="mono" font-size="10.5" fill="#8b9bd6">Git and GitHub learning</text>
+      <circle cx="449" cy="218" r="6" fill="#f05033"/><text x="462" y="222" class="mono" font-size="11" fill="#dfe6ff">Markdown</text>
+      <text x="530" y="223" class="mono" font-size="14" fill="#dfe6ff">★</text><text x="550" y="222" class="mono" font-size="12" fill="#dfe6ff">—</text></g><g><line x1="8" x2="589" y1="266.5" y2="266.5" stroke="#3d56d6" stroke-opacity=".3"/>
+      <text x="14" y="254.5" class="mut" font-size="11">06</text>
+      <text x="50" y="254.5" class="mono" font-size="12" font-weight="700" fill="#9aabff">My Resume</text>
+      <text x="180" y="254.5" class="mono" font-size="10.5" fill="#8b9bd6">Resume and career materials</text>
+      <circle cx="449" cy="250.5" r="6" fill="#e44d26"/><text x="462" y="254.5" class="mono" font-size="11" fill="#dfe6ff">HTML</text>
+      <text x="530" y="255.5" class="mono" font-size="14" fill="#dfe6ff">★</text><text x="550" y="254.5" class="mono" font-size="12" fill="#dfe6ff">—</text></g>
+    <text x="14" y="299" class="mono" font-size="11.5" fill="#8b9bd6">&gt; More projects coming soon... Stay tuned!</text>
+    <rect x="310.7" y="288" width="9" height="14" fill="#9aabff"/></g></g></svg>
