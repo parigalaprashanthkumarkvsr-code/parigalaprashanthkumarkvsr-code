@@ -3,7 +3,7 @@ from PIL import Image,ImageOps
 from io import BytesIO
 import numpy as np
 
-USER="parigalaprashanthkumvsr-code"
+USER="parigalaprashanthkumarkvsr-code"
 src=urlopen(Request(f"https://github.com/{USER}.png?size=512",headers={"User-Agent":"Mozilla/5.0"}),timeout=30).read()
 img=Image.open(BytesIO(src)).convert("L")
 side=min(img.size); left=(img.width-side)//2; top=(img.height-side)//2

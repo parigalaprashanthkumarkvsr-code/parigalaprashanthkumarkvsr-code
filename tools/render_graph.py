@@ -23,4 +23,4 @@ for week in range(53):
         title=html.escape(f'{dt.isoformat()} — {item["count"]} contributions')
         parts.append(f'<rect x="{x}" y="{y}" width="11" height="11" rx="3" fill="{colors[level]}" opacity="0"><title>{title}</title><animate attributeName="opacity" from="0" to="1" begin="{delay:.3f}s" dur=".3s" fill="freeze"/></rect>')
 svg=f'''<svg xmlns="http://www.w3.org/2000/svg" width="820" height="190" viewBox="0 0 820 190"><rect width="820" height="190" rx="14" fill="#0d1117"/><g font-family="monospace"><text x="20" y="30" fill="#58a6ff" font-size="14">$ contribution_graph --live</text>{''.join(parts)}<text x="20" y="178" fill="#8b949e" font-size="11">Total: {D["total"]} • Generated: {D["generated_at"]}</text></g></svg>'''
-open("graph.svg","w",encoding="utf-8").write(svg)
+open("assets/graph.svg","w",encoding="utf-8").write(svg)

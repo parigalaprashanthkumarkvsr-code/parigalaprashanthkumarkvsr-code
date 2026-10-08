@@ -2,7 +2,7 @@ from urllib.request import Request, urlopen
 from datetime import datetime
 import json,re
 
-USER="parigalaprashanthkumvsr-code"
+USER="parigalaprashanthkumarkvsr-code"
 URL=f"https://github.com/users/{USER}/contributions"
 req=Request(URL,headers={"User-Agent":"Mozilla/5.0"})
 html=urlopen(req,timeout=30).read().decode("utf-8","ignore")
