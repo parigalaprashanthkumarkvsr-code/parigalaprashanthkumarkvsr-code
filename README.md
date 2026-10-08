@@ -1,63 +1,95 @@
 <div align="center">
 
-# <code>parigalaprashanthkumkvsr-code</code>
+# PARIGALA PRASHANTH KUMAR KVSR
 
 ### AI/ML Engineering Student · Generative AI · Python · Data Analytics
 
-<img src="./graph.svg" width="820" alt="Living contribution graph"/>
+Building practical AI applications and learning through projects.
 
-<br>
-
-<table>
-<tr>
-<td valign="top">
-<img src="./assets/portrait.svg" width="360" alt="Animated ASCII identity portrait"/>
-</td>
-<td valign="top">
-<img src="./assets/sysinfo.svg" width="460" alt="Terminal style profile information"/>
-</td>
-</tr>
-</table>
+<!-- Optional banner image -->
+<!-- Replace the path below with your uploaded image path in your repo -->
+<!-- <img src="./assets/profile-dashboard.png" width="100%" alt="GitHub profile dashboard" /> -->
 
 </div>
 
 ---
 
-## <code>$ whoami</code>
+## $ whoami
 
-I'm an AI/ML engineering student focused on building practical AI applications and learning through projects.
+I'm an **AI/ML engineering student** focused on building practical AI applications and learning through projects.
 
-I explore **Artificial Intelligence, Machine Learning, Generative AI, LLMs, RAG, Python and Data Analytics**, while developing stronger software engineering skills.
+I explore:
 
-## <code>$ focus --current</code>
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- LLMs
+- RAG
+- Python
+- Data Analytics
+- Software engineering skills
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI, LLMs & RAG
+---
+
+## $ focus --current
+
+- 🧠 Artificial Intelligence & Machine Learning
+- ⭐ Generative AI, LLMs & RAG
 - 🐍 Python & problem solving
 - 📊 SQL, Pandas & Data Analytics
-- 💻 Git, GitHub & software development
-- 🏎️ AI/ML applications in Formula 1
+- 🔗 Git, GitHub & software development
+- 🏁 AI/ML applications in Formula 1
 
-## <code>$ ls ./projects</code>
+---
 
-| Repository | Description |
-|---|---|
-| [30 Days Python](https://github.com/parigalaprashanthkumsvr-code/PYTHON-BEGGINER-FOR-30-DAYS) | Python fundamentals and daily practice |
-| [GENAI-APAC](https://github.com/parigalaprashanthkumsvr-code/GENAI-APAC) | Generative AI learning and projects |
-| [OC-ME](https://github.com/parigalaprashanthkumsvr-code/OC-ME) | OpenCode multi-environment project |
-| [LeetCode](https://github.com/parigalaprashanthkumsvr-code/leetcode) | Coding and problem-solving practice |
-| [Git Journey](https://github.com/parigalaprashanthkumsvr-code/git-journey) | Git and GitHub learning |
-| [My Resume](https://github.com/parigalaprashanthkumsvr-code/MY_RESUME) | Resume and career materials |
+## $ ls ./projects
 
-## <code>$ cat tech-stack.txt</code>
+| # | Repository | Description |
+|---|---|---|
+| 01 | [30 Days Python](https://github.com/parigalaprashanthkumsvr-code/PYTHON-BEGGINER-FOR-30-DAYS) | Python fundamentals and daily practice |
+| 02 | [GENAI-APAC](https://github.com/parigalaprashanthkumsvr-code/GENAI-APAC) | Generative AI learning and projects |
+| 03 | [OC-ME](https://github.com/parigalaprashanthkumsvr-code/OC-ME) | OpenCode multi-environment project |
+| 04 | [LeetCode](https://github.com/parigalaprashanthkumsvr-code/leetcode) | Coding and problem-solving practice |
+| 05 | [Git Journey](https://github.com/parigalaprashanthkumsvr-code/git-journey) | Git and GitHub learning |
+| 06 | [My Resume](https://github.com/parigalaprashanthkumsvr-code/MY_RESUME) | Resume and career materials |
 
-**Languages:** Python · SQL · JavaScript  
-**AI/ML:** Machine Learning · Generative AI · LLMs · RAG  
-**Data:** Pandas · Data Analysis · Data Visualization  
-**Development:** Git · GitHub · React · HTML · CSS  
-**Tools:** Jupyter Notebook · VS Code · Ollama
+> More projects coming soon... Stay tuned!
 
-## <code>$ tail -f learning.log</code>
+---
+
+## $ cat tech-stack.txt
+
+### Languages
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4EA8DE)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=8B5CF6)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=ai&logoColor=22C55E)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=buffer&logoColor=A855F7)
+
+### Data
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-111827?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-111827?style=for-the-badge&logo=plotly&logoColor=22D3EE)
+
+### Development
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
+
+---
+
+## $ tail -f learning.log
 
 ```text
 [learning] Python programming
@@ -66,16 +98,3 @@ I explore **Artificial Intelligence, Machine Learning, Generative AI, LLMs, RAG,
 [learning] Retrieval-Augmented Generation
 [learning] SQL & Data Analytics
 [building] Portfolio-ready AI projects
-```
-
-## <code>$ echo $MISSION</code>
-
-**Learn → Build → Experiment → Improve → Share 🚀**
-
----
-
-<div align="center">
-
-<sub>Living profile assets are generated locally and refreshed with GitHub Actions.</sub>
-
-</div>
