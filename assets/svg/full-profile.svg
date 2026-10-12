@@ -129,4 +129,22 @@
     <g transform="translate(56,84)" fill="none" stroke="#9aabff" stroke-width="3"><circle r="22"/><circle r="13"/><circle r="4" fill="#9aabff"/><line x1="0" y1="0" x2="24" y2="-24"/></g>
     <text x="118" y="95" class="mono" font-size="24" font-weight="700" filter="url(#glow)"><tspan fill="#9aabff">Learn</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Build</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Experiment</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Improve</tspan><tspan fill="#dfe6ff" dx="10"> →</tspan><tspan dx="6"> </tspan><tspan fill="#9aabff">Share</tspan></text>
     <text x="840" y="96" font-size="28">🚀</text></g></g><rect x="0" y="0" width="941" height="3" fill="#9aabff" opacity=".07"/>
+
+<!-- Subtle terminal-style animation: scanning light and pulsing status indicators -->
+<g id="living-terminal-animation" pointer-events="none">
+  <rect x="15" y="-12" width="911" height="18" fill="#35c8ff" opacity="0.055">
+    <animate attributeName="y" values="-12;1625;-12" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="15" x2="926" y1="-2" y2="-2" stroke="#35c8ff" stroke-width="1.4" opacity="0.55">
+    <animate attributeName="y1" values="-2;1625;-2" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="-2;1625;-2" dur="9s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="906" cy="26" r="3" fill="#35c8ff">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="543" y="144" width="12" height="18" fill="#35c8ff" opacity="0.25">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
 </svg>
